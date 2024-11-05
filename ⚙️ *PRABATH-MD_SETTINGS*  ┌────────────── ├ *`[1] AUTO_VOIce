@@ -1,0 +1,254 @@
+
+⚙️ *PRABATH-MD_SETTINGS*
+
+┌──────────────
+├ *`[1] AUTO_VOICE`*
+├─ 1.1 | Enable auto_voice (default-voice) 🔛
+├─ 1.2 | Disable auto_voice 📴
+├─ 1.3 | Auto_voice - customize 👨‍🔧
+└──────────────
+┌──────────────
+├ *`[2] AUTO_STICKER`*
+├─ 2.1 | Enable auto_sticker 🔛
+├─ 2.2 | Disable auto_sticker 📴
+├─ 2.3 | Auto_sticker - customize 👨‍🔧
+└──────────────
+┌──────────────
+├ *`[3] AUTO_RESTART`*
+├─ 3.1 | enable auto_restart 🔛
+├─ 3.2 | Disable auto_restart 📴
+└──────────────
+┌──────────────
+├ *`[4] AUTO_READ_STATUS`*
+├─ 4.1 | Enable auto_read_status 🔛
+├─ 4.2 | Disable auto_read_status 📴
+└──────────────
+┌──────────────
+├ *`[5] ALWAYS_ONLINE`*
+├─ 5.1 | Enable online_status_bot 🔛
+├─ 5.2 | Disable online_status_bot 📴
+└──────────────
+┌──────────────
+├ *`[6] READ_MESSAGE`*
+├─ 6.1 | Enable blue tick to commands 🔛
+├─ 6.2 | Enable blue tick to all messages 🔛
+├─ 6.3 | Disable blue tick to all messages 📴
+└──────────────
+┌──────────────
+├ *`[7] ANTI_LINK`*
+├─ 7.1 | Enable antilink all chat's 🔛
+├─ 7.2 | Disable antilink all chat's 📴
+├
+├─ 7.3 | Delete_only 🚮
+├─ 7.4 | Delete + Remove ⛔
+└──────────────
+┌──────────────
+├ *`[8] ANTI_BOT`*
+├─ 8.1 | Enable anti_bot all chat's 🔛
+├─ 8.2 | Disable anti_bot all chat's 📴
+└──────────────
+┌──────────────
+├ *`[9] ANTI_BAD`*
+├─ 9.1 | Enable antibad-word all chat's 🔛
+├─ 9.2 | Disable antibad-word all chat's 📴
+├─ 9.3 | Anti-bad - customize 👨‍🔧
+├
+├─ 9.4 | Delete_only 🚮
+├─ 9.5 | Delete + Remove ⛔
+└──────────────
+┌──────────────
+├ *`[10] ANTI_DELETE`*
+├─ 10.1 | Enable anti_delete 🔛
+├─ 10.2 | Disable anti_delete 📴
+├
+├─ 10.3 | Enable anti_delete Only inbox 👤
+├─ 10.4 | Enable anti_delete Only groups 👥
+├─ 10.5 | Enable anti_delete inbox & groups 🫂
+└──────────────
+┌──────────────
+├ *`[11] ANTI_VIEWONCE`*
+├─ 11.1 | Enable anti_viewOnce 🔛
+├─ 11.2 | Disable anti_viewOnce 📴
+├
+├─ 11.3 | Enable anti_viewOnce Only inbox 👤
+├─ 11.4 | Enable anti_viewOnce Only groups 👥
+├─ 11.5 | Enable anti_viewOnce inbox & groups 🫂
+└──────────────
+┌──────────────
+├ *`[12] MOVIE-DL`*
+├─ 12.1 | Movie-Download _ true 🔛
+├─ 12.2 | Movie-Download _ false 📴
+└──────────────
+┌──────────────
+├ *`[13] WORK_TYPE`*
+├─ 13.1 | Set work_type to private 👤
+├─ 13.2 | Set work_type to inbox 👥
+├─ 13.3 | Work-only in groups 🫂
+├─ 13.4 | Work groups and inbox (public) 👥🫂
+└──────────────
+┌──────────────
+├ *`[14] BOT_LANGUAGE`*
+├─ 14.1 | Set language to english 🇦🇨
+├─ 14.2 | Set language to sinhala 🇱🇰
+└──────────────
+┌──────────────
+├ *`[15] INBOX_AUTO_BLOCK`*
+├─ 15.1 | Set auto-block to true 🔛
+├─ 15.2 | Set auto-block to false 📴
+├
+├─ 15.3 | with-command ⛓️
+├─ 15.4 | without-command 🩹
+└──────────────
+┌──────────────
+├ *`[16] XVDL-DL`*
+├─ 16.1 | Xvideo-Download _ true 🔛
+├─ 16.2 | Xvideo-Download _ false 📴
+└──────────────
+┌──────────────
+├ *`[17] AUTO_REACT`*
+├─ 17.1 | Set auto-react to true 🔛
+├─ 17.2 | Set auto-react to false 📴
+└──────────────
+┌──────────────
+├ *`[18] USER_REACT`*
+├─ 18.1 | Set user-react to true 🔛
+├─ 18.2 | Set user-react to false 📴
+└──────────────
+┌──────────────
+├ *`[19] COMPOSING`*
+├─ 19.1 | Set composing to true 🔛
+├─ 19.2 | Set composing to false 📴
+└──────────────
+┌──────────────
+├ *`[20] CHATBOT`*
+├─ 20.1 | Set chatbot _ true 🔛
+├─ 20.2 | Set chatbot _ false 📴
+└──────────────
+
+
+⚙️ *PRABATH-MD_SETTINGS*
+
+┌──────────────
+├ *`[1] AUTO_VOICE`*
+├─ 1.1 | Enable auto_voice (default-voice) 🔛
+├─ 1.2 | Disable auto_voice 📴
+├─ 1.3 | Auto_voice - customize 👨‍🔧
+└──────────────
+┌──────────────
+├ *`[2] AUTO_STICKER`*
+├─ 2.1 | Enable auto_sticker 🔛
+├─ 2.2 | Disable auto_sticker 📴
+├─ 2.3 | Auto_sticker - customize 👨‍🔧
+└──────────────
+┌──────────────
+├ *`[3] AUTO_RESTART`*
+├─ 3.1 | enable auto_restart 🔛
+├─ 3.2 | Disable auto_restart 📴
+└──────────────
+┌──────────────
+├ *`[4] AUTO_READ_STATUS`*
+├─ 4.1 | Enable auto_read_status 🔛
+├─ 4.2 | Disable auto_read_status 📴
+└──────────────
+┌──────────────
+├ *`[5] ALWAYS_ONLINE`*
+├─ 5.1 | Enable online_status_bot 🔛
+├─ 5.2 | Disable online_status_bot 📴
+└──────────────
+┌──────────────
+├ *`[6] READ_MESSAGE`*
+├─ 6.1 | Enable blue tick to commands 🔛
+├─ 6.2 | Enable blue tick to all messages 🔛
+├─ 6.3 | Disable blue tick to all messages 📴
+└──────────────
+┌──────────────
+├ *`[7] ANTI_LINK`*
+├─ 7.1 | Enable antilink all chat's 🔛
+├─ 7.2 | Disable antilink all chat's 📴
+├
+├─ 7.3 | Delete_only 🚮
+├─ 7.4 | Delete + Remove ⛔
+└──────────────
+┌──────────────
+├ *`[8] ANTI_BOT`*
+├─ 8.1 | Enable anti_bot all chat's 🔛
+├─ 8.2 | Disable anti_bot all chat's 📴
+└──────────────
+┌──────────────
+├ *`[9] ANTI_BAD`*
+├─ 9.1 | Enable antibad-word all chat's 🔛
+├─ 9.2 | Disable antibad-word all chat's 📴
+├─ 9.3 | Anti-bad - customize 👨‍🔧
+├
+├─ 9.4 | Delete_only 🚮
+├─ 9.5 | Delete + Remove ⛔
+└──────────────
+┌──────────────
+├ *`[10] ANTI_DELETE`*
+├─ 10.1 | Enable anti_delete 🔛
+├─ 10.2 | Disable anti_delete 📴
+├
+├─ 10.3 | Enable anti_delete Only inbox 👤
+├─ 10.4 | Enable anti_delete Only groups 👥
+├─ 10.5 | Enable anti_delete inbox & groups 🫂
+└──────────────
+┌──────────────
+├ *`[11] ANTI_VIEWONCE`*
+├─ 11.1 | Enable anti_viewOnce 🔛
+├─ 11.2 | Disable anti_viewOnce 📴
+├
+├─ 11.3 | Enable anti_viewOnce Only inbox 👤
+├─ 11.4 | Enable anti_viewOnce Only groups 👥
+├─ 11.5 | Enable anti_viewOnce inbox & groups 🫂
+└──────────────
+┌──────────────
+├ *`[12] MOVIE-DL`*
+├─ 12.1 | Movie-Download _ true 🔛
+├─ 12.2 | Movie-Download _ false 📴
+└──────────────
+┌──────────────
+├ *`[13] WORK_TYPE`*
+├─ 13.1 | Set work_type to private 👤
+├─ 13.2 | Set work_type to inbox 👥
+├─ 13.3 | Work-only in groups 🫂
+├─ 13.4 | Work groups and inbox (public) 👥🫂
+└──────────────
+┌──────────────
+├ *`[14] BOT_LANGUAGE`*
+├─ 14.1 | Set language to english 🇦🇨
+├─ 14.2 | Set language to sinhala 🇱🇰
+└──────────────
+┌──────────────
+├ *`[15] INBOX_AUTO_BLOCK`*
+├─ 15.1 | Set auto-block to true 🔛
+├─ 15.2 | Set auto-block to false 📴
+├
+├─ 15.3 | with-command ⛓️
+├─ 15.4 | without-command 🩹
+└──────────────
+┌──────────────
+├ *`[16] XVDL-DL`*
+├─ 16.1 | Xvideo-Download _ true 🔛
+├─ 16.2 | Xvideo-Download _ false 📴
+└──────────────
+┌──────────────
+├ *`[17] AUTO_REACT`*
+├─ 17.1 | Set auto-react to true 🔛
+├─ 17.2 | Set auto-react to false 📴
+└──────────────
+┌──────────────
+├ *`[18] USER_REACT`*
+├─ 18.1 | Set user-react to true 🔛
+├─ 18.2 | Set user-react to false 📴
+└──────────────
+┌──────────────
+├ *`[19] COMPOSING`*
+├─ 19.1 | Set composing to true 🔛
+├─ 19.2 | Set composing to false 📴
+└──────────────
+┌──────────────
+├ *`[20] CHATBOT`*
+├─ 20.1 | Set chatbot _ true 🔛
+├─ 20.2 | Set chatbot _ false 📴
+└──────────────
+
